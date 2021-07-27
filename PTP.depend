@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1611973619 source:/home/aldin/C++/PTP/main.cpp
+	<iostream>
+	"ptp.h"
+	<string>
+	<fstream>
+	<cmath>
+
+1611887003 /home/aldin/C++/PTP/ptp.h
+	<iostream>
+	<vector>
+
+1611974000 source:/home/aldin/C++/PTP/ptp.cpp
+	"ptp.h"
+	<bits/stdc++.h>
+	<cmath>
+
